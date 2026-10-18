@@ -1,0 +1,33 @@
+[main] interrupting 8 workers after 2000 ms
+transfer-3 stopped after 1981 transfers
+transfer-2 stopped after 991 transfers
+transfer-5 stopped after 1041 transfers
+transfer-1 stopped after 1091 transfers
+transfer-4 stopped after 944 transfers
+transfer-7 stopped after 815 transfers
+transfer-6 stopped after 2353 transfers
+transfer-0 stopped after 1313 transfers
+transfers completed = 10529
+all workers stopped = true
+total = 4000 (expected 4000)
+
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
+[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1

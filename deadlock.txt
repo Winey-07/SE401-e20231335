@@ -11,23 +11,3 @@ transfers completed = 10529
 all workers stopped = true
 total = 4000 (expected 4000)
 
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
-[watchdog] DEADLOCK detected between: transfer-0, transfer-4, transfer-3, transfer-1
